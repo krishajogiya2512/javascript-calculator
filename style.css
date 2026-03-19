@@ -8,7 +8,6 @@ body{
     margin-top: 20px;
 }
 
-/* container */
 .container{
     display: flex;
     flex-direction: column;
@@ -16,12 +15,10 @@ body{
     margin-top: 20px;
 }
 
-/* rows */
 .row{
     display: flex;
 }
 
-/* input box */
 .input{
     width: 230px;
     padding: 10px;
@@ -32,7 +29,6 @@ body{
     border-radius: 6px;
 }
 
-/* buttons */
 .button{
     width: 50px;
     height: 50px;
@@ -44,12 +40,10 @@ body{
     cursor: pointer;
 }
 
-/* hover effect */
 .button:hover{
     background-color: #cfcfcf;
 }
 
-/* equal button special */
 .button:active{
     background-color: #bfbfbf;
 }
